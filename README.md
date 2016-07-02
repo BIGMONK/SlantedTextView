@@ -1,4 +1,4 @@
-# SlantedTextView
+# SlantedTextView  倾斜TextView
 Android slanted TextView . [中文版](https://github.com/HeZaiJin/SlantedTextView/blob/master/README-cn.md)
 ## Preview
 ![预览](https://github.com/HeZaiJin/SlantedTextView/blob/master/screen_shot/screenshot.png)
